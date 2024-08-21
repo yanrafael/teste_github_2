@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+
+main{
+    width: 50%;
+    height: 50%;
+    box-shadow: 1px 1px 2px black;
+    text-align: center;
+    background-color: #fff;
+    margin: auto;
+}
